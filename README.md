@@ -1,5 +1,5 @@
 ## Frontend Mentor Challenge
-This project is a solution to the [Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) from Frontend Mentor. This project was built using React and Tailwind CSS.
+This project is a solution to the [Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) from Frontend Mentor.
 
 ## Brief
 In this challenge, I was required to build out a pricing card component as close as I could to the original design using HTML & CSS.
